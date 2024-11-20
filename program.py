@@ -60,4 +60,7 @@ while Puzzle_status == True:
 
 print("/")
 print("DU HAR TAGIT DIG ÖVER VÄGEN! nu kan ditt äventyr äntligen fortsätta mot det där tornet!")
-print("Du springer över fina ängar och igenom stora skogar. plöstligt så kommer du till.")
+print("Du springer över fina ängar och igenom stora skogar. plöstligt så kommer du till en stig som leder in i en skog.")
+
+while Puzzle_status == True:
+    print("Du går ner för skogstigen.")
